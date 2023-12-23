@@ -1,4 +1,4 @@
-# 👋 Hi,  @Charlydev777
+# 👋 Hi,  *@Charlydev777*
 - 👀 I’m interested in web developing & etical hacking
 - 🌱 I’m currently learning Javascript & Python
 
