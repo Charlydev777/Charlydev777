@@ -227,19 +227,19 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlydev777&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
         </a>
 
-<img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://metrics.lecoq.io/Charlydev777?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
 
-  ![Charlydev777](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![Charlydev777](https://github-readme-stats.vercel.app/api?username=Charlydev777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
-![Charlydev777](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
+![Charlydev777](https://github-readme-streak-stats.herokuapp.com/?user=Charlydev777&theme=dark&hide_border=false)<br/>
 
 <p align="center"><img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
 </p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Charlydev777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlydev777&theme=default)
 
 <p align="center"><img src="./assets/images/code.gif" height="500" width="800"> 
   
