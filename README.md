@@ -28,7 +28,7 @@
   
 
 <p align="center">
-<a href="https://Charlydev777.github.io/CV" target="_blank">
+<a href="#" target="_blank">
    <img src="https://img.shields.io/badge/MY-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
@@ -80,7 +80,7 @@
 
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Contact With Me :</i></h2>
 <h3 align="center">
-  <a href="https://t.me/d4rkkniht"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+  <a href="https://t.me/charlydev777"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=charlsstudiosofc@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!--a href="https://youtube.com/user"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></! a-->
   <!--a href="https://twitter.com/user"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a -->
